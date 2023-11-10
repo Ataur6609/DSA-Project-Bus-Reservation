@@ -56,7 +56,6 @@ getch();
     printf("\t\n");
     printf("\t\t\t\t\tThank You For Using This System\t\t\t\t\t\t\n");
     printf("\t\n");
-    printf("\t\t\t Brought To You By code-projects.org");
     getch();
     return 0;
 }
